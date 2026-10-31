@@ -1,0 +1,57 @@
+/* Style the whole webpage */
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 30px;
+}
+
+/* Style the profile card */
+.profile-card {
+    background-color: white;
+    width: 400px;
+    margin: 30px auto;
+    padding: 25px;
+    border: 3px solid red;
+    border-radius: 15px;
+}
+
+/* Style the main heading */
+h1 {
+    color: red;
+    font-size: 32px;
+    text-align: center;
+}
+
+/* Style the profile image */
+img {
+    width: 200px;
+    border: 3px solid blue;
+    border-radius: 50%;
+}
+
+/* Style your name */
+h2 {
+    color: blue;
+    font-size: 25px;
+}
+
+/* Style paragraphs */
+p {
+    color: black;
+    font-size: 18px;
+    text-align: center;
+}
+
+/* Style the Contact Me button */
+button {
+    background-color: red;
+    color: white;
+    font-size: 18px;
+    padding: 12px 25px;
+    margin: 15px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
